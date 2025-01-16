@@ -1,4 +1,4 @@
-secrets.py # dont leak secrets
+./secrets.py # dont leak secrets
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
